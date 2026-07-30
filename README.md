@@ -205,4 +205,4 @@ This project provided practical experience with:
 ---
 For further information about project requirements, see `BİL361-ODEV2-BAHAR-2024-2025.pdf`.
 
-For further information about results and visualizaiton of test results, see `rapor.pdf`.
+For further information about results and visualization of test results, see `rapor.pdf`.
